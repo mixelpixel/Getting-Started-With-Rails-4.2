@@ -1,7 +1,7 @@
 source 'https://rubygems.org'
 
 # per: https://richonrails.com/articles/getting-started-with-ckeditor
-gem "ckeditor"#, '~> 4.1' # 4.1 is what I used with ScothcBlog.
+gem "ckeditor"#, '~> 4.1' # 4.1 is what I used with ScotchBlog.
 gem "paperclip"# same as festi
 
 # Bundle edge Rails instead: gem 'rails', github: 'rails/rails'
